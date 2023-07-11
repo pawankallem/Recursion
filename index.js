@@ -10,4 +10,4 @@ const n_factorial = (n) => {
   return n * n_factorial(n-1)
 }
 
-console.log(n_factorial(8))
+console.log("productof 5 is ",n_factorial(5))
